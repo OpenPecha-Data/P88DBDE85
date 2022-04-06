@@ -1,0 +1,32 @@
+id: P88DBDE85
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG4307
+  instance_id: http://purl.bdrc.io/resource/IE1KG4307
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - ཚད་མ་རིགས་ཐིགས་ཀྱི་འགྲེལ་པ་ཟུར་བཀོལ།
+  alt_title:
+    en-x-mixed:
+    - Tshad ma rigs gźuṅ rgya mtsho las, Rigs thigs kyi ʼgrel pa zur bkol /zur bkol
+      mdzad pa po, Skyabs-rje Mkhan-chen Khra-gu Rin-po-che.
+  author: http://purl.bdrc.io/resource/P2486
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    d56135eef0374685acb9405856baf08c:
+      title: པོད ༡་ཚད་མ་རིགས་ཐིགས་ཀྱི་འགྲེལ་པ་ཟུར་བཀོལ
+      volume_number: 1
+      base_file: UT1KG4307_I1PD100521_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2B680BB580E9216E
+      image_group: I1PD100521
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG4307
+  - http://purl.bdrc.io/resource/MW1KG4307
+  ocr_software: Namsel
+created_at: '2021-12-22T10:41:10.042806'
+last_modified_at: '2021-12-22T10:41:10.042813'
